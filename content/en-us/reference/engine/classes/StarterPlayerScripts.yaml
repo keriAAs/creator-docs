@@ -37,3 +37,4 @@ properties: []
 methods: []
 events: []
 callbacks: []
+Character.Parent: Destroy()
